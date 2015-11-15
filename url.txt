@@ -1,0 +1,2 @@
+sina,www.sina.com.cn  
+bing,www.bing.com  
